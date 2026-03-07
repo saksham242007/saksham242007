@@ -24,15 +24,9 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=saksham242007&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saksham242007&show_icons=true&theme=tokyonight)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saksham242007&layout=compact&theme=tokyonight)
-
----
-
-## 🔥 Contribution Graph
-
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=saksham242007&theme=tokyo-night)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saksham242007&layout=compact&theme=tokyonight)
 
 ---
 
@@ -40,6 +34,12 @@
 
 ![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+
+---
+
+## 🔥 Contribution Graph
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=saksham242007&theme=tokyo-night)
 
 ---
 
