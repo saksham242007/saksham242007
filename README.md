@@ -26,13 +26,11 @@
 
 <p align="center">
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saksham242007&layout=donut&theme=tokyonight"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saksham242007&layout=donut&theme=tokyonight&hide_border=true"/>
 
-<img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=saksham242007&theme=tokyonight"/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=saksham242007&theme=tokyonight&hide_border=true"/>
 
 </p>
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=saksham242007&theme=tokyo-night)
 
 ---
 
@@ -43,7 +41,7 @@
 
 ---
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=saksham242007&theme=tokyo-night)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=saksham242007&theme=tokyo-night)
 
 ---
 
