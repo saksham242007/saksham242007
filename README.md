@@ -1,12 +1,39 @@
-#  About Me:
-open-source contributor and learning data science focused on solving real world problems
+<h1 align="center">Hi 👋, I'm saksham</h1>
+
+<p align="center">
+Open Source Learner
+</p>
+
+---
+
+### 👨‍💻 About Me
+- 🎓 Btech student
+- 💻 Learning **Rdata science and aiml**
+- 🌱 Currently learning **data structures and algorithm **
+- 🚀 Interested in **Open Source & GSoC**
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/xshmmx) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saksham-mishra) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sksm) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mishrasaksham620@gmail.com) 
+### 🚀 Tech Stack
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk)
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=saksham242007&show_icons=true&theme=tokyonight)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saksham242007&layout=compact&theme=tokyonight)
+
+
+### 🔥 Contribution Graph
+
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=saksham242007&theme=tokyo-night)
+
+### 🛠 Tools
+
+![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
