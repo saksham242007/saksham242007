@@ -25,9 +25,14 @@
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saksham242007&layout=compact&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=saksham242007&theme=tokyonight" />
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saksham242007&layout=donut&theme=tokyonight"/>
+
+<img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=saksham242007&theme=tokyonight"/>
+
 </p>
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=saksham242007&theme=tokyo-night)
 
 ---
 
